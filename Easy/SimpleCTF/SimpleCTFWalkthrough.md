@@ -8,7 +8,7 @@
 * searching for exploit on google
 * gaining username and password for ssh
 * ssh login
-* priviledge escalation
+* privilege escalation
 
 ## nmap
 We will use nmap Aggressive Scan to search for ports and services.
